@@ -1,0 +1,4 @@
+baseURL = 'https://fabioscagliola.com'
+languageCode = 'en-us'
+theme = 'fabioscagliola'
+title = 'Fabio Scagliola'

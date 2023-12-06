@@ -1,0 +1,72 @@
+{{- /*
+Renders a menu for the given menu ID.
+
+@context {page} page The current page.
+@context {string} menuID The menu ID.
+
+@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+*/}}
+
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+  <div class="container">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+          </ul>
+          <ul class="navbar-nav">
+              <li class="nav-item">
+                  <a class="nav-link" href="https://github.com/fabioscagliola" target="_blank"><i class="bi bi-github" data-bs-toggle="tooltip" data-bs-placement="bottom" title="GitHub"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="https://instagram.com/fabioscagliola" target="_blank"><i class="bi bi-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Instagram"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="https://linkedin.com/in/fabioscagliola" target="_blank"><i class="bi bi-linkedin" data-bs-toggle="tooltip" data-bs-placement="bottom" title="LinkedIn"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="https://twitter.com/fabioscagliola" target="_blank"><i class="bi bi-twitter" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Twitter"></i></a>
+              </li>
+          </ul>
+      </div>
+  </div>
+</nav>
+{{- end }}
+
+{{- define "partials/inline/menu/walk.html" }}
+  {{- $page := .page }}
+  {{- range .menuEntries }}
+    {{- $attrs := dict "href" .URL }}
+    {{- if $page.IsMenuCurrent .Menu . }}
+      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+    {{- else if $page.HasMenuCurrent .Menu .}}
+      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+    {{- end }}
+    {{- $name := .Name }}
+    {{- with .Identifier }}
+      {{- with T . }}
+        {{- $name = . }}
+      {{- end }}
+    {{- end }}
+    <li class="nav-item">
+      <a class="nav-link"
+        {{- range $k, $v := $attrs }}
+          {{- with $v }}
+            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+          {{- end }}
+        {{- end -}}
+      >{{ $name }}</a>
+      {{- with .Children }}
+        <ul>
+          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </ul>
+      {{- end }}
+    </li>
+  {{- end }}
+{{- end }}
