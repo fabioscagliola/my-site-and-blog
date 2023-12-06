@@ -81,7 +81,7 @@ Since 1998 I have been working as a freelance software architect and developer f
 - [Delfin Tubes SA](https://delfintubes.com), Gijon, Asturias, Spain
 - [Guess Europe SAGL](https://guess.com), Bioggio, Switzerland
 - [LP SPA](https://lpspa.it), Venegono Superiore, VA, Italy
-- [TI-Care SA](https://ti-care.ch), Lugano, Switzerland
+- [TI-Care SA](https://www.ti-care.ch), Lugano, Switzerland
 
 #### Trainer and consultant
 
@@ -97,8 +97,7 @@ Here is the list of my major projects.
 
 #### Backend web API supporting a device and its controlling mobile app
 
-2022 - 2023
-
+2022 - 2023\
 The intended use of the device and its controlling mobile app is still confidential.
 
 ##### Tasks
@@ -111,8 +110,7 @@ Clean architecture, DDD, TDD, SCRUM, PostgreSQL, ASP.NET, Azure, Terraform, Visu
 
 #### Web application to manage medical devices
 
-2014 – 2022
-
+2014 – 2022\
 One of the world’s largest manufacturers of blood collection monitors and blood components extractors wanted to introduce a web application to manage their devices. The application had to communicate, on the one hand, with the devices to configure them and exchange data during their operation, and, on the other hand, with the Blood Establishment Computer Software (or BECS) to exchange data about blood collections and blood components extractions.
 
 ##### Tasks
@@ -125,8 +123,7 @@ Clean architecture, DDD, TDD, SCRUM, SQL Server, ASP.NET, Azure, Visual Studio
 
 #### Big data modeling to predict platelet usage and minimize wastage
 
-2020 – 2022
-
+2020 – 2022\
 One of the largest blood centers in the US wanted to develop a web application allowing them to predict the minimum number of platelet units required to satisfy their customers’ demand over the next seven days – platelets units expire after three days. The application had to employ a machine learning model that could predict this number based on the historical data.
 
 ##### Tasks
@@ -139,8 +136,7 @@ DDD, TDD, SCRUM, machine learning, R, SQL Server, ASP.NET, Azure, Visual Studio
 
 #### Mobile app and backend web application to display 3D models in augmented reality
 
-2018
-
+2018\
 A large tailor-made furniture manufacturer wanted to allow their customers to preview their furniture in their environment. The mobile app had to use augmented reality to map the empty space and display 3D models of the furniture. The mobile app had to download the models from a backend web application used by the manufacturer to upload new models.
 
 ##### Tasks
@@ -153,8 +149,7 @@ DDD, TDD, SCRUM, iOS, Swift, ARKit, Xcode, SQL Server, ASP.NET, Azure, Visual St
 
 #### Video game for mobile devices
 
-2014 – 2016
-
+2014 – 2016\
 An independent video game publisher wanted to develop a side-scrolling video game for mobile devices. The game had to support Android, iOS, and Windows Phone, therefore the Ionic framework, built on top of AngularJS and Apache Cordova, was chosen as its foundation. Unfortunately, two years into the development, the project was canceled, and the video game was never released to the public.
 
 ##### Tasks
@@ -167,8 +162,7 @@ DDD, TDD, SCRUM, Ionic, AngularJS, EaselJS, PreloadJS
 
 #### Web application to integrate Learning Management Systems with LTI resources
 
-2012
-
+2012\
 A large Dutch eLearning company wanted to integrate Learning Management Systems (LMS) that are not compliant with the Learning Tools Interoperability (LTI) specification with LTI resources such as courses or exams. The web application had to act as a proxy between the LMS and the LTI resources in order to allow users to launch courses or exams from the LMS, and to receive the outcome of the courses and exams and transfer it to the LMS.
 
 ##### Tasks
@@ -181,8 +175,7 @@ DDD, TDD, SCRUM, OAuth2, OpenID Connect, SQL Server, ASP.NET, Azure, Visual Stud
 
 #### Application to predict the cost of extended surface tubes and heat transfer equipment
 
-1998 – 2020
-
+1998 – 2020\
 One of the world’s largest manufacturers of extended surface tubes (finned tubes and studded tubes) and heat transfer equipment wanted to develop an application to predict the cost of their products based on historical data. The project started as a desktop application (the first version was developed using Visual Basic 6 and an Access database, the second version was developed using WPF and a SQL Server database) and then it evolved into a web application. Over time statistical functions were replaced with a machine learning model.
 
 ##### Tasks

@@ -11,7 +11,7 @@ I am a big fan of agile project management, SCRUM in particular, as well as cont
 
 I have developed strong communication and presentation skills working as a speaker, conference presenter, classroom and e-learning instructor, and author.
 
-I am a musician, I have released four albums in my career so far as [Nothence](nothence), and an avid science fiction and horror reader, in these very genres I publish weird stories on my [blog](blog).
+I am a musician, I have released four albums in my career so far as [Nothence](music), and an avid science fiction and horror reader, in these very genres I publish weird stories on my [blog](blog).
 
 I am bilingual, Italian and English, and I speak French, German, and Spanish.
 

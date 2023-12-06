@@ -2,3 +2,29 @@ baseURL = 'https://fabioscagliola.com'
 languageCode = 'en-us'
 theme = 'fabioscagliola'
 title = 'Fabio Scagliola'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Résumé'
+pageRef = '/resume'
+weight = 20
+
+[[menus.main]]
+name = 'Music'
+pageRef = '/music'
+weight = 30
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/blog'
+weight = 40
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
