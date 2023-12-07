@@ -5,7 +5,7 @@ date = 2020-07-18T00:00:00-00:00
 
 "Son is happy when Father plays with him" said Son while dragging Father by the index finger along the dark corridor, an endless tunnel of darkness from his perspective, the light of his room shining at the end of it.
 
-*Turn the light off when you exit a room*, the rule stated —energy saving, of course—, *but not before turning the light on in the room you are entering*, Son amended, afraid of the dark.
+*Turn the light off when you exit a room*, the rule stated — energy saving, of course —, *but not before turning the light on in the room you are entering*, Son amended, afraid of the dark.
 
 Tonight, however, he had violated both the rule and its amendment when he had left his room running to welcome Father back from work.
 
@@ -15,7 +15,7 @@ Father interrupted Son's spaghetti-thought replying "Father happy too when playi
 
 And Son realized that Father would never be afraid of anything, and they would walk together towards his room wherever it may be.
 
-—
+\*\*\*
 
 "Look, dad! Skeletor captured He-Man and imprisoned him in the dungeons of Snake Mountain!"
 
@@ -29,7 +29,7 @@ And Son realized that Father would never be afraid of anything, and they would w
 
 "Of course! Of course!" — *Your mother is already wearing her red gym suit of the special occasions anyway, and those blue beach-and-home slippers that would abort the erection of a convict watching porn.*
 
-—
+\*\*\*
 
 Father was sitting on Son's bed, deeply focused on whatever was troubling his mind, while Son would want him to kneel on the floor and interact with the action figures.
 
@@ -43,7 +43,7 @@ Mother was beautiful. His middle school teacher was pretty, but Mother was prett
 
 Only Alice was more beautiful and graceful than Mother.
 
-—
+\*\*\*
 
 He made up his mind: he was going to take the car and go to Alice!
 
@@ -63,7 +63,7 @@ If only he had taken a last look into the rearview mirror while leaving, he woul
 
 Would he remember them, should he come back?
 
-—
+\*\*\*
 
 He's back.
 

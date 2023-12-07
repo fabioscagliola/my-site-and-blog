@@ -5,6 +5,20 @@ date = 2022-09-09T00:00:00-00:00
 
 Weird stories, book reviews, articles, and more.
 
+# Vinyl, Cassette, CD, MiniDisc, MP3 & Co.
+
+I started writing [this article](/blog/vinyl-cassette-cd-minidisc-mp3-and-company) in Italian during February 2022, but I never managed to complete it. It was destined to be published on [https://videohifi.com](https://videohifi.com/), an Italian online magazine codirected by my dear friend Francesco Sorino.
+
+On this very magazine, Francesco had dedicated an amazing article to my personal music project Nothence ([https://videohifi.com/nothence](https://videohifi.com/nothence)) – I will never thank him enough for that! – and I had published an article describing how to build a high-quality streamer using the popular Raspberry Pi single-board computer ([https://www.raspberrypi.com](https://www.raspberrypi.com/)), a DAC for the Raspberry Pi manufactured by HiFiBerry ([https://www.hifiberry.com](https://www.hifiberry.com/)), and software developed in collaboration with none other than Bang & Olufsen ([https://videohifi.com/berriesbo](https://videohifi.com/berriesbo)).
+
+Unfortunately, in November 2022, Bebo Moroni, who had founded the magazine in 2003, passed away, and Francesco decided to cease the publications.
+
+Today, I have found the time to translate the article to English and decided to publish it here, even if still incomplete: the section about the vinyl records is complete, the section about the cassette is almost complete, the section about the compact disc is complete, the section about the MiniDisc is barely introduced, and the one about MP3 & Co. is completely missing.
+
+Nerdiness alert!
+
+August 20, 2023
+
 ## How Software Excellence Fuels Business Performance
 
 I have recently read the article [Developer Velocity: How software excellence fuels business performance](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance), published by McKinsey & Company on April 20, 2020, which describes the dimensions and drivers that are used to measure what they call the Developer Velocity Index (DVI).
@@ -15,7 +29,7 @@ In my article [How Software Excellence Fuels Business Performance](/blog/how-sof
 
 September 9, 2022
 
-## Conduits — Hidden Memories Part 2
+## Conduits
 
 [Conduits](/blog/conduits) is the sequel to [Hidden Memories](/blog/hidden-memories).
 
