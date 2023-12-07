@@ -35,9 +35,9 @@ Going back to my childhood, I remember a record player that a family friend had 
 
 As a child I was fascinated by that device to the point that last year, when I found out that the Japanese company Anabas Audio produced a replica, I got myself one, with which I am fully satisfied.
 
-The Anabas Audio GP-N3R ([https://www.anabas.co.jp/products/view/gp\_n3r](https://www.anabas.co.jp/products/view/gp_n3r)), unlike the original Columbia GP-3, is stereo, although the built-in speaker is mono, and is equipped with none other than an Audio-Technica AT3600L cartridge (with ATN3600L stylus). When connected to an external amplifier, it produces respectable sound for a product paid 200 EUR, including shipping. Of course, to the price of the turntable must be added that of a 220- to 110-volt voltage converter or batteries (it requires as many as six D-type, or flashlight, batteries), but satisfying nostalgia is priceless.
+The [Anabas Audio GP-N3R](https://anabas.co.jp/products/view/gp_n3r), unlike the original Columbia GP-3, is stereo, although the built-in speaker is mono, and is equipped with none other than an Audio-Technica AT3600L cartridge (with ATN3600L stylus). When connected to an external amplifier, it produces respectable sound for a product paid 200 EUR, including shipping. Of course, to the price of the turntable must be added that of a 220- to 110-volt voltage converter or batteries (it requires as many as six D-type, or flashlight, batteries), but satisfying nostalgia is priceless.
 
-![](RackMultipart20231207-1-55fxy1_html_20eaba9ad49b83b5.jpg)
+![](vinyl-cassette-cd-minidisc-mp3-and-company-01.png)
 
 *Chevelle's second album "Wonder What's Next" (2002), pressed on a 12-inch disc recorded at 33 rpm, the classic LP (whose cover is autographed by the Loeffler brothers), played upright on my Anabas Audio GP-N3R precariously balanced on a stack of books.*
 
@@ -45,9 +45,9 @@ My family was not into Hi-Fi. At home there was an old piano that Grandpa had gi
 
 In those years, vinyl records, which had also retained the largest market share even when cassettes were mass marketed, were about to be overtaken by compact discs – this is the medium and format that, driven by my passion for computing, I loved and still love more than any other; the numbers of my collection say so: just over a hundred vinyl records and cassettes versus more than two thousand compact discs.
 
-To conclude this first section, the turntable I chose for my most modern system is the Technics SL-1500C ([https://www.technics.com/it/prodotti/premium-class/giradischi/sl-1500c.html](https://www.technics.com/it/prodotti/premium-class/giradischi/sl-1500c.html)), which lacks the nostalgic charm of the Anabas Audio GP-N3R, but is one of the best choices in its market range.
+To conclude this first section, the turntable I chose for my most modern system is the [Technics SL-1500C](https://technics.com/uk/products/premium-class/turntables/sl-1500c.html), which lacks the nostalgic charm of the Anabas Audio GP-N3R, but is one of the best choices in its market range.
 
-![](RackMultipart20231207-1-55fxy1_html_be712880978a142e.jpg)
+![](vinyl-cassette-cd-minidisc-mp3-and-company-02.png)
 
 *A limited edition of Monolord's single "I'm staying home" (2021), printed on a 12-inch disc unusually recorded at 45 rpm, decorated by a detail of Michael Hutter's painting "The Triumph of the Flesh" (evidently inspired by Bosch's "The Garden of Earthly Delights") on my Technics SL-1500C.*
 
@@ -67,11 +67,11 @@ Returning to music, since Fritz Pfleumer invented magnetic tape, as we know it t
 
 Although the sale of prerecorded cassettes, often called music cassettes to distinguish them from those sold blank, never exceeded the sale of vinyl, the medium developed by Ottens gained momentum in the 1970s and 1980s and survived into the 1990s because of its portability, and especially because it allowed recording at a very low cost.
 
-I still enjoy extracting audio tracks from concerts posted on YouTube using youtube-dl ([https://youtube-dl.org](https://youtube-dl.org/)) – I am a subscriber to YouTube Premium, so I commit no crime in doing so – and recording them on cassette with my 1989 Denon DRM-700 or, more often, with my 1993 Denon DRM-740, and then listening to them on headphones with one of my two 1987 Sony WM-DD33 Walkmans, both perfectly restored by my friend Michael Moser at his Walkman Clinic ([https://www.walkman-clinic-switzerland.ch](https://www.walkman-clinic-switzerland.ch/)) in Vorderthal, Canton Schwyz, Switzerland.
+I still enjoy extracting audio tracks from concerts posted on YouTube using [youtube-dl](https://youtube-dl.org) – I am a subscriber to YouTube Premium, so I commit no crime in doing so – and recording them on cassette with my 1989 Denon DRM-700 or, more often, with my 1993 Denon DRM-740, and then listening to them on headphones with one of my two 1987 Sony WM-DD33 Walkmans, both perfectly restored by my friend Michael Moser at his [Walkman Clinic](https://walkman-clinic-switzerland.ch) in Vorderthal, Canton Schwyz, Switzerland.
 
-![](RackMultipart20231207-1-55fxy1_html_15bd3bc4d3cfefcb.jpg)
+![](vinyl-cassette-cd-minidisc-mp3-and-company-03.png)
 
-*My two 1987 Sony WM-DD33 Walkmans, both perfectly restored by my friend Michael Moser at his Walkman Clinic ([https://www.walkman-clinic-switzerland.ch](https://www.walkman-clinic-switzerland.ch/)) in Vorderthal, Canton Schwyz, Switzerland.*
+*My two 1987 Sony WM-DD33 Walkmans, both perfectly restored by my friend Michael Moser at his [Walkman Clinic](https://walkman-clinic-switzerland.ch) in Vorderthal, Canton Schwyz, Switzerland.*
 
 [Here I had plans to explain how magnetic-tape recording works in compact cassettes and make an honorable mention for DAT and DCC.]
 
@@ -87,7 +87,7 @@ The first one bought in a record store, saving on weekly allowances until I put 
 
 In thirty-one years, the world has changed, but not my favorite way of listening to music: the love for music and passion for computing of the 16-year-old me were embodied in the compact disc with a perfect marriage and there they remain to this day.
 
-![](RackMultipart20231207-1-55fxy1_html_7bdc804e82d3de9a.jpg)
+![](vinyl-cassette-cd-minidisc-mp3-and-company-04.png)
 
 *My 1992 Teac CD-P3500 and 1994 Technics SL-PG360A, stolen from my brother, between the CDs of Seal's first untitled album (1991) and "The Long Road North" (2022) the latest album by Cult of Luna (still wrapped in protective film), respectively the first and the last I have purchased to date. On the open drawer of the Teac, the Mini-CD (8 centimeters in diameter) of Phil Collins' single "I Wish It Would Rain Down" (1990) in which Eric Clapton plays guitar.*
 
@@ -103,7 +103,7 @@ I remember how I tried to explain to my son, when he was in high school, how the
 
 To this day I still pretend not to remember my son's reaction... :)
 
-![](RackMultipart20231207-1-55fxy1_html_cc0f06d339f763fd.jpg)
+![](vinyl-cassette-cd-minidisc-mp3-and-company-05.png)
 
 *The "whiskey" CD edition of my first album in my 1996 Sony Discman D-245.*
 
@@ -123,7 +123,7 @@ I don't remember how many CD players have been gathering dust on my shelves, but
 
 Worthy of honorable mention is the Super Audio CD (SACD), introduced in 1999 also by Philips and Sony, of which, however, I have never owned either a player or a disc, because in those years my attention, like that of most consumers for that matter, had already shifted to MP3 & Co. formats.
 
-To conclude this third section, the CD player I have chosen for my most modern system is a Technics SL-C700 ([https://www.technics.com/it/prodotti/archivio/grand-class/sl-c700.html](https://www.technics.com/it/prodotti/archivio/grand-class/sl-c700.html)), which combines high quality with refined design.
+To conclude this third section, the CD player I have chosen for my most modern system is a [Technics SL-C700](https://technics.com/uk/support/discontinued-products/premium-class/sl-c700.html), which combines high quality with refined design.
 
 ## The MiniDisc
 

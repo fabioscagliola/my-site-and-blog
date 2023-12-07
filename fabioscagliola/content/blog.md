@@ -7,9 +7,9 @@ Weird stories, book reviews, articles, and more.
 
 # Vinyl, Cassette, CD, MiniDisc, MP3 & Co.
 
-I started writing [this article](/blog/vinyl-cassette-cd-minidisc-mp3-and-company) in Italian during February 2022, but I never managed to complete it. It was destined to be published on [https://videohifi.com](https://videohifi.com/), an Italian online magazine codirected by my dear friend Francesco Sorino.
+I started writing [this article](/blog/vinyl-cassette-cd-minidisc-mp3-and-company) in Italian during February 2022, but I never managed to complete it. It was destined to be published on [videohifi.com](https://videohifi.com/), an Italian online magazine codirected by my dear friend Francesco Sorino.
 
-On this very magazine, Francesco had dedicated an amazing article to my personal music project Nothence ([https://videohifi.com/nothence](https://videohifi.com/nothence)) – I will never thank him enough for that! – and I had published an article describing how to build a high-quality streamer using the popular Raspberry Pi single-board computer ([https://www.raspberrypi.com](https://www.raspberrypi.com/)), a DAC for the Raspberry Pi manufactured by HiFiBerry ([https://www.hifiberry.com](https://www.hifiberry.com/)), and software developed in collaboration with none other than Bang & Olufsen ([https://videohifi.com/berriesbo](https://videohifi.com/berriesbo)).
+On this very magazine, Francesco had dedicated an [amazing article](https://videohifi.com/nothence) to my personal music project Nothence – I will never thank him enough for that! – and I had published [an article](https://videohifi.com/berriesbo) describing how to build a high-quality streamer using the popular [Raspberry Pi](https://www.raspberrypi.com) single-board computer, a DAC for the Raspberry Pi manufactured by [HiFiBerry](https://www.hifiberry.com), and software developed in collaboration with none other than Bang & Olufsen.
 
 Unfortunately, in November 2022, Bebo Moroni, who had founded the magazine in 2003, passed away, and Francesco decided to cease the publications.
 
