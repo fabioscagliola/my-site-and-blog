@@ -1,4 +1,3 @@
-
 ## About me
 
 Since 1998 I have been working as a freelance on the design and development of enterprise software solutions for international organizations.
