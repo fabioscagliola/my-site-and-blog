@@ -5,7 +5,7 @@ date = 2022-09-09T00:00:00-00:00
 
 Weird stories, book reviews, articles, and more.
 
-# Vinyl, Cassette, CD, MiniDisc, MP3 & Co.
+## Vinyl, Cassette, CD, MiniDisc, MP3 & Co.
 
 I started writing [this article](/blog/vinyl-cassette-cd-minidisc-mp3-and-company) in Italian during February 2022, but I never managed to complete it. It was destined to be published on [videohifi.com](https://videohifi.com/), an Italian online magazine codirected by my dear friend Francesco Sorino.
 
