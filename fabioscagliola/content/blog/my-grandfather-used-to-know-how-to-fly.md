@@ -426,5 +426,5 @@ I hate her, and I love her, and I hate her, and I love her, but I hate her more.
 
 *Let me just add one paragraph.*
 
-*After my grandfather's funeral, I went home and started reading his diary lying on my favorite couch. Page after page, it brought to my memory the tales that he used to tell me when I was a child. I do not remember how far I was into the booklet, nor how much time had passed since I had begun reading it, but I clearly remember the panic rushing to my head when I realized I that was floating about one meter above the couch.*
+*After my grandfather's funeral, I went home and started reading his diary lying on my favorite couch. Page after page, it brought to my memory the tales that he used to tell me when I was a child. I do not remember how far I was into the booklet, nor how much time had passed since I had begun reading it, but I clearly remember the panic rushing to my head when I realized that I was floating about one meter above the couch.*
 
