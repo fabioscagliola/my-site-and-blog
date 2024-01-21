@@ -73,7 +73,7 @@ December 27, 2020
 
 ## The Von Neumann Link
 
-My newest story is called [The Von Neumann Link](/blog/the-von-neumann-link) and it revolves around a science-fictional technology I humbly dedicate to the memory of John von Neumann. It is also a story about pandemics and the consequences of lockdowns on people's mental health.
+My newest story is called [The Von Neumann Link](/blog/the-von-neumann-link) and it revolves around a science-fictional technology I humbly dedicate to the memory of John von Neumann. It is a story about pandemics and the consequences of lockdowns on people's mental health.
 
 October 31, 2020
 
