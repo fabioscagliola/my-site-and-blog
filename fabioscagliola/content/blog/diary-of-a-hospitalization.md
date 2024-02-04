@@ -42,7 +42,7 @@ Nonetheless, I satisfied the nurse's expectations and complied. She helped me fa
 
 Then she instructed me on how to operate the chair to go to the canteen, to the dormitory, to the toilet, and back to the main pavilion.
 
-She told me I had maybe a couple of hours of free time I could spend at the canteen, but I was not allowed to assume any solid food, which I already knew very well: I had unpleasantly purged my intestines for the previous two days, during which I had also fasted.
+She told me I had maybe a couple of hours of free time I could spend at the canteen, but I was not allowed to consume any solid food, which I already knew very well: I had unpleasantly purged my intestines for the previous two days, during which I had also fasted.
 
 So, I went to the canteen. You know the rest. Next step: collecting blood samples, urine samples, and, worst of all, internal organs' tissue samples.
 
