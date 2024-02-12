@@ -264,7 +264,7 @@ Everything happened so fast. I let myself fall down on the grass. She was waitin
 
 That was our first kiss.
 
-When we our lips detached (after I would not know how long), my eyes searched for hers and found them returning the look, and we were floating in midair. I did not even have the time to curse in my mind and she was already screaming and holding me as close as she could. I held her back and tried to explain her.
+When our lips detached (after I would not know how long), my eyes searched for hers and found them returning the look, and we were floating in midair. I did not even have the time to curse in my mind and she was already screaming and holding me as close as she could. I held her back and tried to explain her.
 
 – Alice, please, calm down! It is all right!
 
