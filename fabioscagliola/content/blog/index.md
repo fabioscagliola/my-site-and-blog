@@ -1,6 +1,6 @@
 +++
 title = 'Blog'
-date = 2022-09-09T00:00:00-00:00
+date = 2023-08-20T00:00:00-00:00
 +++
 
 Weird stories, book reviews, articles, and more.
