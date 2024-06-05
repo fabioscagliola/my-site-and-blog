@@ -5,7 +5,7 @@ date = 2022-08-05T00:00:00-00:00
 
 [Nothence](https://nothence.com) is my personal independent alternative-rock music project, started in 2009.
 
-[![Nothence](https://nothence.com/images/Nothence.white.png)](https://nothence.com)
+{{< imagelink src="https://nothence.com/images/Nothence.white.png" href="https://nothence.com" >}}
 
 My fourth instrumental post-rock studio album **Proposed tracks for unproduced movies** was released on December 1, 2018. I had previously released three other studio albums: my favorite one [Post mortem memento vivere](https://pmmv.nothence.com) (September 1, 2016), **Public static void** (March 21, 2014), and **Portrayed by a blind painter** (October 1, 2012).
 
